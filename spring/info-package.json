@@ -1,10 +1,11 @@
 {
+  "id" : 1,
   "title" : "Spring Project",
   "file" : "README.md",
   "topic" : "Spring Tuts",
   "dirUrl" : "",
-  "fileUrl" : "https://raw.githubusercontent.com/code-differently/curriculum-and-lessons/main/spring/info-package.json?token=AAMD3QWWOM2QON4B4R5Y7ZTCIY6RC",
-  "sha" : "f632925722a79f4743cfa1d4ee2392325f2c130d",
-  "created" : 1648770262090,
-  "updated" : 1648770262090
+  "fileUrl" : "https://raw.githubusercontent.com/code-differently/curriculum-and-lessons/main/spring/info-package.json?token=AAMD3QRVTQYWAYONZ6JM32LCIY66C",
+  "sha" : "bf2d04842808a2d5c69bab951fe1dd59542022e0",
+  "created" : 1648770469627,
+  "updated" : 1648770469627
 }
