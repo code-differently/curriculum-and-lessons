@@ -1,1 +1,5 @@
-{"id":4,"title":"Spring Project","file":"README.md","topic":"Spring Tuts","dirUrl":"https://raw.githubusercontent.com/code-differently/curriculum-and-lessons/main/spring","fileUrl":"https://raw.githubusercontent.com/code-differently/curriculum-and-lessons/main/spring/info-package.json","sha":"b679ef8622620c9487b9261b5adda90fe3eb2587","created":1648740720744,"updated":1648740720744}
+{
+    "title":"Spring Project",
+    "file":"README.md",
+    "topic":"Spring Tuts"
+}
