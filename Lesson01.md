@@ -4,7 +4,7 @@
 ## Example2
 ## Third Example
 
-![](./imgs/img01.jpeg)
+![](./assets/lesson01/img01.jpeg)
 
 ## [Fourth Example](http://www.fourthexample.com) 
 
