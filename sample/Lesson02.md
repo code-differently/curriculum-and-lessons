@@ -1,3 +1,3 @@
 # Hello
 
-![](./assets/lesson01/img01.jpeg)
+![](./imgs/img02.jpeg)
