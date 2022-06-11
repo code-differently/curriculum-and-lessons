@@ -2,7 +2,7 @@
 
 ![](./imgs/img01.jpeg)
 
-```java
+```
 // Import the ArrayList class and the Iterator class
 import java.util.ArrayList;
 import java.util.Iterator;
