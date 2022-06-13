@@ -1,6 +1,6 @@
 # For Jeff and Jordan
 
-![](./imgs/img02.jpeg)
+![](./imgs/img01.jpeg)
 
 ```java
 // Import the ArrayList class and the Iterator class
